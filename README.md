@@ -2,9 +2,9 @@
 
 ## 1. Developers
 
-- Huh Hoejun: Korea University, Computer Science (Class of 2017)  
-- Kim Sunghyuk: KAIST, Computer Science (Class of 2018)  
-- Jina Kim: KAIST, School of Freshman (Class of 2022)
+- Huh Hoejun: Korea University, Computer Science (entered in 2017)  
+- Kim Sunghyuk: KAIST, Computer Science (entered in 2018)  
+- Jina Kim: KAIST, School of Freshman (entered in 2022)
 
 ## 2. Development Environment
 
